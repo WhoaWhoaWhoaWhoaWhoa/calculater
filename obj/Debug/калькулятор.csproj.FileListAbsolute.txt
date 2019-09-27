@@ -1,0 +1,20 @@
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+D:\VisualS\Проэкты C#\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.csprojAssemblyReference.cache
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+\\KVLAD\Users\Public\Videos\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
